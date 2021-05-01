@@ -64,18 +64,18 @@
   }
 
   .desc {
-    padding-left: 2.8em;
+    padding-left: 2.3em;
   }
 
   .title {
-    padding-left: 2.8em;
+    padding-left: 2.3em;
   }
   .post img {
-    padding-left: 2.8em;
+    padding-left: 2.3em;
   }
 }
 
-@media screen and (max-width: 2870px) {
+@media screen and (max-width: 280px) {
   .post {
     padding: 30px;
   }
