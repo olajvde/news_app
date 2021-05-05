@@ -1,4 +1,5 @@
 import {Toolbar} from "../components/toolbar";
+import "bootstrap/dist/css/bootstrap.min.css";
 import styles from "../styles/crypto.module.css";
 export default function crypto({filteredData}) {
   console.log(filteredData);

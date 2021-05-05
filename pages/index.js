@@ -12,7 +12,8 @@ export default function Home() {
       <div className={styles.main}>
         <h1>Olajvde's News App</h1>
         <h3 className={styles.desc}>
-          Come back for the latest news articles about Nigeria
+          Come back for the latest news articles about Nigeria and
+          Cryptocurrency rates
         </h3>
         <br />
         <div
