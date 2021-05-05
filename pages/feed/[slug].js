@@ -76,6 +76,7 @@ export const getServerSideProps = async (pageContext) => {
       },
     }
   );
+  2;
 
   const apiJson = await apiResponse.json();
 
